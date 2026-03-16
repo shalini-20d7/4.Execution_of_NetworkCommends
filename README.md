@@ -28,5 +28,21 @@ This commands includes
 
 ## Output
 
+![Output](arp.png)
+
+![Output](getmac.png)
+
+![Output](hostname.png)
+
+![Output](ipconfig.png)
+
+![Output](nbtstat.png)
+![Output](netstat.png)
+
+![Output](nslookup.png)
+
+![Output](systeminfo.png)
+
+![Output](tracert.png)
 ## Result
 Thus Execution of Network commands Performed 
